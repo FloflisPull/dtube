@@ -1,0 +1,11 @@
+{
+    "name": "dtube",
+    "version": "1.0",
+    "description": "📺 [D]ecentralized, full-featured video sharing website.",
+    "author": "floflispull",
+    "url": "https://d.tube/",
+    "icon": "https://about.d.tube/img/kit/Logo_Black_D.svg",
+    "permissions" : "true",
+    "width": "700",
+    "height": "450"
+}
